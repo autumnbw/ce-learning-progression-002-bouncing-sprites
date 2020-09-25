@@ -33,7 +33,7 @@ https://msudenver.yuja.com/Dashboard/Permalink?authCode=1518378576&b=1785136&lin
 
 
 ### 1.2.2:
-[Program 1.2.2.](Programs/microbit-program-1-2-2.js)
+[Program 1.2.2.](programs/microbit-program-1-2-2.js)
 
 https://msudenver.yuja.com/Dashboard/Permalink?authCode=1313137938&b=1787299&linkType=video
 
