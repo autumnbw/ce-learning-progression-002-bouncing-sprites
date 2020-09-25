@@ -17,3 +17,25 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 ---
 
 _Your study and submission work here..._
+
+# Submission for Learning Progression 002
+## Step 1
+#### Question 1.1.1:
+#### Answer: 
+#### Question 1.1.2:
+
+#### Question 1.1.3:
+
+### 1.2.1:
+[Program 1.2.1.](programs/microbit-program-1-2-1.js)
+
+https://msudenver.yuja.com/Dashboard/Permalink?authCode=1518378576&b=1785136&linkType=video
+
+
+### 1.2.2:
+[Program 1.2.2.](Programs/microbit-program-1-2-2.js)
+
+https://msudenver.yuja.com/Dashboard/Permalink?authCode=1313137938&b=1787299&linkType=video
+
+### 1.2.3:
+[Program 1.2.3.](programs/microbit-program-1-2-3.js)
